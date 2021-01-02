@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <style type="text/css">
+        input {
+  width: 100%;
+  padding: 3px ;
+  margin: 5px 0;
+  border: 1px solid #000000;
+  }
+input[type=submit] {
+  width: 20%;
+  padding: 9px;
+  margin: 5px 0;
+  
+  border: 2px solid #000000;
+  outline: none;
+   background-color:green;
+   color:white;
+    
+}
+        </style>
+    </head>
+</html>
