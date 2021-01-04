@@ -1,6 +1,6 @@
 Type of the software : Stand alone (Java,UML with netbeans and Jfarm will be used)
 Operating System : Windows
-Compiler : eclipse
+Compiler : DrJava,Java Developers Kit
 
 
 1. CGPA calculator
